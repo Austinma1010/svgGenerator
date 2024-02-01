@@ -14,7 +14,7 @@ const questions = [
         name: 'color',
     },
     {
-        type: 'Checkbox',
+        type: 'checkbox',
         message: 'Select shape',
         name: 'shape',
         choices: [
